@@ -1,52 +1,34 @@
 {
-  "toys": [
+  "blogs": [
     {
-      "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "title": "My new Website",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "author": "Maung",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "title": "Welcome",
+      "body": "Sed pulvinar proin gravida hendrerit. Lacus laoreet non curabitur gravida. Ipsum faucibus vitae aliquet nec ullamcorper sit. Morbi non arcu risus quis varius quam quisque id. Cras ornare arcu dui vivamus arcu felis bibendum ut. Ac tortor dignissim convallis aenean et tortor at. Mi proin sed libero enim sed faucibus turpis. Ullamcorper malesuada proin libero nunc consequat interdum varius sit amet. Turpis egestas sed tempus urna et pharetra pharetra massa. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. In ornare quam viverra orci sagittis. Quisque sagittis purus sit amet volutpat.",
+      "author": "Ko Ko",
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "title": "Web dev top tips",
+      "body": "Vitae turpis massa sed elementum tempus egestas sed sed risus. Magna fringilla urna porttitor rhoncus dolor purus. Mi tempus imperdiet nulla malesuada pellentesque elit eget gravida cum. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Vel fringilla est ullamcorper eget. Risus in hendrerit gravida rutrum quisque non. Etiam sit amet nisl purus in mollis. Suspendisse ultrices gravida dictum fusce ut placerat. Sem nulla pharetra diam sit amet nisl suscipit. Arcu odio ut sem nulla pharetra diam sit.",
+      "author": "Maung",
+      "id": 3
     },
     {
-      "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "title": "esrgerwg",
+      "body": "ergwregewgerwgwergwre",
+      "author": "Maung",
+      "id": 4
     },
     {
-      "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
-    },
-    {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
-    },
-    {
-      "id": 7,
-      "name": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
-    },
-    {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "title": "eqr4t3t",
+      "body": "ewqrtf3tree3",
+      "author": "Maung",
+      "id": 5
     }
   ]
 }
